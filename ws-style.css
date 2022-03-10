@@ -33,6 +33,10 @@
 * Security and Compliance Fixes
 */
 
+.page-id-29057 .et_pb_row_8 {
+    min-height: auto;
+}
+
 @media screen and (min-width: 981px) {
     .page-id-29057 .et_pb_video_0 {
         padding: 25px 0px;
