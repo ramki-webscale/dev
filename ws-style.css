@@ -26,8 +26,19 @@
 .page-id-29051 .et_pb_row_6.et_pb_row,
 .page-id-29063 .et_pb_row_3.et_pb_row,
 .page-id-29063 .et_pb_row_5.et_pb_row,
-.page-id-29063 .et_pb_row_9.et_pb_row {
+.page-id-29063 .et_pb_row_9.et_pb_row,
+.page-id-27585 .et_pb_row_3.et_pb_row,
+.page-id-27585 .et_pb_row_5.et_pb_row,
+.page-id-27585 .et_pb_row_6.et_pb_row .page-id-27585 .et_pb_row_8.et_pb_row,
+.page-id-27585 .et_pb_row_9.et_pb_row {
     padding-bottom: 0px !important;
+}
+
+.page-id-27585 .et_pb_row_3.et_pb_row,
+.page-id-27585 .et_pb_row_5.et_pb_row,
+{
+    padding-top: 45px !important;
+    margin-top: 0 !important
 }
 
 .page-id-29045 .et_pb_slide_with_image .et_pb_slide_description {
@@ -48,8 +59,8 @@
 * Headless page / PWA Fixes
 */
 
-.page-id-29051 .et_pb_section.et_pb_section_1,
-.page-id-29063 .et_pb_section.et_pb_section_1 {
+.et_pb_section.et_pb_section_1,
+.et_pb_section.et_pb_section_1 {
     background-image: linear-gradient(180deg, #f3f4f4 0%, rgba(250, 250, 250, 0) 50%)!important;
 }
 
