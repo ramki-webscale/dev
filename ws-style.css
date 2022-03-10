@@ -1,10 +1,21 @@
 /* -------------------------------------------- Home css --------------------------------------------- */
 
 #quote .et_pb_main_blurb_image img {
-	width: 90px;
+    width: 90px;
     height: 90px !important;
     border-radius: 50% !important;
-	margin-top: 0px !important;
+    margin-top: 0px !important;
 }
 
+
 /* ----------------------------------------- End Home  --------------------------------------------- */
+
+
+/* 
+* edge-deployments Fixes
+*/
+
+.page-id-29045 .et_pb_row_3.et_pb_row,
+.page-id-29045 .et_pb_row_6.et_pb_row {
+    padding-bottom: 0px !important;
+}
