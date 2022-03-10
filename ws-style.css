@@ -71,6 +71,6 @@
         padding: 25px 0px;
     }
     .et_pb_text_3 {
-        max-width: 60%;
+        max-width: 60% !important;
     }
 }
