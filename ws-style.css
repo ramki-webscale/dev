@@ -1,8 +1,10 @@
-/* Add your CSS code here.
+/* -------------------------------------------- Home css --------------------------------------------- */
 
-For example :
-.example {
-    color: red;
-} 
+#quote .et_pb_main_blurb_image img {
+	width: 90px;
+    height: 90px;
+    border-radius: 50%;
+	margin-top: 0px;
+}
 
-End of comment */
+/* ----------------------------------------- End Home --------------------------------------------- */
