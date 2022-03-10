@@ -35,7 +35,9 @@
 .page-id-29068 .et_pb_row_3.et_pb_row,
 .page-id-29068 .et_pb_row_4.et_pb_row,
 .page-id-29068 .et_pb_row_5.et_pb_row,
-.page-id-29068 .et_pb_row_6.et_pb_row {
+.page-id-29068 .et_pb_row_6.et_pb_row,
+.page-id-29071 .et_pb_row_3.et_pb_row,
+.page-id-29071 .et_pb_row_4.et_pb_row {
     padding-bottom: 0px !important;
 }
 
@@ -96,6 +98,6 @@
     .demo-form .et_pb_text_3,
     .demo-form .et_pb_text_4,
     .demo-form .et_pb_text_1 {
-        max-width: 60% !important; 
+        max-width: 60% !important;
     }
 }
