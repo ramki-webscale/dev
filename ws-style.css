@@ -89,7 +89,8 @@
     .page-id-29057 .et_pb_video_0 {
         padding: 25px 0px;
     }
-    .et_pb_text_3 {
-        max-width: 60%;
+    .demo-form .et_pb_text_3,
+    .demo-form .et_pb_text_4 {
+        max-width: 60% !important;
     }
 }
