@@ -2,9 +2,9 @@
 
 #quote .et_pb_main_blurb_image img {
 	width: 90px;
-    height: 90px !important;
-    border-radius: 50% !important;
-	margin-top: 0px !important;
+    height: 90px;
+    border-radius: 50%;
+	margin-top: 0px;
 }
 
 /* ----------------------------------------- End Home  --------------------------------------------- */
