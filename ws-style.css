@@ -45,8 +45,22 @@
 .page-id-29068 .et_pb_row_6.et_pb_row,
 .page-id-29071 .et_pb_row_3.et_pb_row,
 .page-id-29071 .et_pb_row_4.et_pb_row,
-.page-id-2037 .et_pb_section_3 {
+.page-id-2037 .et_pb_section_3,
+.page-id-29178 .et_pb_row_2.et_pb_row,
+.page-id-29178 .et_pb_row_3.et_pb_row,
+.page-id-29178 .et_pb_row_8.et_pb_row,
+.page-id-29178 .et_pb_row_9.et_pb_row,
+.page-id-29178 .et_pb_row_5.et_pb_row {
     padding-bottom: 0px !important;
+}
+
+.page-id-29178 .et_pb_section_5,
+.page-id-29178 .et_pb_section_3 {
+    padding-bottom: 45px;
+}
+
+.page-id-29178 .et_pb_section_6 {
+    margin-bottom: 90px;
 }
 
 .page-id-27585 .et_pb_row_3.et_pb_row,
@@ -108,6 +122,7 @@
 .demo-form .et_pb_text_3,
 .demo-form .et_pb_text_4,
 .demo-form .et_pb_text_1,
-.demo-form .et_pb_text_15 {
+.demo-form .et_pb_text_15,
+.demo-form .et_pb_text_7 {
     max-width: 60% !important;
 }
