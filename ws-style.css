@@ -103,9 +103,11 @@
     .page-id-29057 .et_pb_video_0 {
         padding: 25px 0px;
     }
-    .demo-form .et_pb_text_3,
-    .demo-form .et_pb_text_4,
-    .demo-form .et_pb_text_1 {
-        max-width: 60% !important;
-    }
+}
+
+.demo-form .et_pb_text_3,
+.demo-form .et_pb_text_4,
+.demo-form .et_pb_text_1,
+.demo-form .et_pb_text_15 {
+    max-width: 60% !important;
 }
