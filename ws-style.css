@@ -18,6 +18,10 @@
     padding: 20px 0 40px !important;
 }
 
+.page-id-2037 .et_pb_section_4 {
+    padding-bottom: 40px;
+}
+
 .page-id-29045 .et_pb_row_3.et_pb_row,
 .page-id-29045 .et_pb_row_6.et_pb_row,
 .page-id-29057 .et_pb_row_3.et_pb_row,
@@ -40,7 +44,8 @@
 .page-id-29068 .et_pb_row_5.et_pb_row,
 .page-id-29068 .et_pb_row_6.et_pb_row,
 .page-id-29071 .et_pb_row_3.et_pb_row,
-.page-id-29071 .et_pb_row_4.et_pb_row {
+.page-id-29071 .et_pb_row_4.et_pb_row,
+.page-id-2037 .et_pb_section_3 {
     padding-bottom: 0px !important;
 }
 
@@ -98,9 +103,11 @@
     .page-id-29057 .et_pb_video_0 {
         padding: 25px 0px;
     }
-    .demo-form .et_pb_text_3,
-    .demo-form .et_pb_text_4,
-    .demo-form .et_pb_text_1 {
-        max-width: 60% !important;
-    }
+}
+
+.demo-form .et_pb_text_3,
+.demo-form .et_pb_text_4,
+.demo-form .et_pb_text_1,
+.demo-form .et_pb_text_15 {
+    max-width: 60% !important;
 }
