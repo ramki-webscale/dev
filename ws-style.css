@@ -10,10 +10,13 @@
 
 /* ----------------------------------------- End Home  --------------------------------------------- */
 
+#hero .et_pb_row {
+    padding: 30px 0 !important;
+}
 
-/* 
-* edge-deployments Fixes
-*/
+#hero .et_pb_row_1.et_pb_row {
+    padding: 20px 0 40px !important;
+}
 
 .page-id-29045 .et_pb_row_3.et_pb_row,
 .page-id-29045 .et_pb_row_6.et_pb_row,
