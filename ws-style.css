@@ -112,10 +112,10 @@
     margin-bottom: 0 !important
 }
 
-@media only screen and (min-width: 981px) {
-    .page-id-29057 .et_pb_video_0 {
-        padding: 25px 0px;
-    }
+div.et_pb_section.et_pb_section_3,
+div.et_pb_section.et_pb_section_4,
+div.et_pb_section.et_pb_section_6 {
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 40%, #f3f4f4 0%)!important;
 }
 
 .demo-form .et_pb_text_3,
@@ -123,5 +123,19 @@
 .demo-form .et_pb_text_1,
 .demo-form .et_pb_text_15,
 .demo-form .et_pb_text_7 {
-    max-width: 60% !important;
+    max-width: 100% !important;
+}
+
+@media only screen and (min-width: 981px) {
+    .page-id-29057 .et_pb_video_0 {
+        padding: 25px 0px;
+    }
+    .demo-form .et_pb_column_27,
+    .demo-form .et_pb_column_17 {
+        width: 40% !important;
+    }
+    .demo-form .et_pb_column_28,
+    .demo-form .et_pb_column_18 {
+        width: 60% !important;
+    }
 }
