@@ -47,7 +47,6 @@
 .page-id-29071 .et_pb_row_4.et_pb_row,
 .page-id-2037 .et_pb_section_3,
 .page-id-29178 .et_pb_row_2.et_pb_row,
-.page-id-29178 .et_pb_row_3.et_pb_row,
 .page-id-29178 .et_pb_row_8.et_pb_row,
 .page-id-29178 .et_pb_row_9.et_pb_row,
 .page-id-29178 .et_pb_row_5.et_pb_row {
@@ -98,6 +97,10 @@
 .page-id-29057 .et_pb_section.et_pb_section_1,
 .page-id-29071 .et_pb_section.et_pb_section_1 {
     background-image: linear-gradient(180deg, #f3f4f4 0%, rgba(250, 250, 250, 0) 50%)!important;
+}
+
+.page-id-29178 .et_pb_section.et_pb_section_4 {
+    background-image: linear-gradient(111.22deg, #e3cdff -19.27%, #b4d9ef 111.89%)!important;
 }
 
 
